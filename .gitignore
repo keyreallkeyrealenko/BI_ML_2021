@@ -1,3 +1,6 @@
 .DS_Store
 .idea/
 algorithms_implementation/
+knn_homework1/.ipynb_checkpoints/KNN-checkpoint.ipynb
+knn_homework1/__pycache__/knn.cpython-39.pyc
+knn_homework1/__pycache__/metrics.cpython-39.pyc
